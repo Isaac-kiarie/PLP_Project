@@ -1,0 +1,7 @@
+iso_code,continent,location,date,total_cases,new_cases,total_deaths,new_deaths,total_vaccinations
+KEN,Africa,Kenya,2021-01-01,96305,154,1676,2,0
+KEN,Africa,Kenya,2021-01-02,96459,154,1678,2,0
+IND,Asia,India,2021-01-01,10266674,16356,148738,252,0
+IND,Asia,India,2021-01-02,10283030,16356,148990,252,0
+USA,North America,United States,2021-01-01,20100000,200000,347000,3000,0
+USA,North America,United States,2021-01-02,20300000,200000,350000,3000,0
